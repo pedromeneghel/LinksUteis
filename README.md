@@ -20,3 +20,6 @@ Coletânea de links úteis no dia a dia para design e programação
 ### Outros materiais
 - [OfficialMarinho/Links-uteis](https://github.com/OfficialMarinho/Links-uteis "OfficialMarinho/Links-uteis"): perfil de links úteis para back e front-end;
 - [Pandao Editor](https://pandao.github.io/editor.md/en.html): editor/gerador de código markdown;
+
+### Cursos
+- [Linux Pro](https://www.linuxpro.com.br/2017/08/curso-de-docker-gratis/): curso de docker;
