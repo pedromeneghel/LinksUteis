@@ -14,6 +14,7 @@ Coletânea de links úteis no dia a dia para design e programação
 - [Free Google Slides](https://freegoogleslidestemplates.com/): templates de apresentações para download;
 - [Slide Gala](https://slidesgala.com/): apresentações em formato Google Slides free;
 - [Slides ppt](https://slidesppt.com): mais templates para usar da forma que precisar;
+- [Slides Carnival](https://www.slidescarnival.com): mais templates para usar da forma que precisar;
 
 ### Outros materiais
 - [OfficialMarinho/Links-uteis](https://github.com/OfficialMarinho/Links-uteis "OfficialMarinho/Links-uteis"): perfil de links úteis para back e front-end;
