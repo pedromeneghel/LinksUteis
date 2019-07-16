@@ -21,6 +21,7 @@ Coletânea de links úteis no dia a dia para design e programação
 - [OfficialMarinho/Links-uteis](https://github.com/OfficialMarinho/Links-uteis "OfficialMarinho/Links-uteis"): perfil de links úteis para back e front-end;
 - [Pandao Editor](https://pandao.github.io/editor.md/en.html): editor/gerador de código markdown;
 - [Luiz Tools](https://www.luiztools.com.br/): Conteúdo sobre métodos ageis, Node js, mobile, etc.
+- [William Oliveira](https://woliveiras.com.br/): Node js e muito mais.
 
 ### Cursos
 - [Linux Pro](https://www.linuxpro.com.br/2017/08/curso-de-docker-gratis/): curso de docker;
