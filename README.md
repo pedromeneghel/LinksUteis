@@ -10,6 +10,8 @@ Coletânea de links úteis no dia a dia para design e programação
 ### Jobs
 - [Remote-friendly brazilian companies](https://github.com/plingbr/remote-jobs-brazil "Remote-friendly brazilian companies"): Coletânea de trabalhos na sua maioria remotos;
 - [frontendbr/vagas](https://github.com/frontendbr/vagas): Vagas apenas de front-end;
+- [phpdevbr](https://github.com/phpdevbr): Vagas para PHP Developers;
+- [backend-br](https://github.com/backend-br/vagas): Vagas somente Backend;
 
 ### Apresentação de Slides - templates
 - [Free Google Slides](https://freegoogleslidestemplates.com/): templates de apresentações para download;
