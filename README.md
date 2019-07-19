@@ -12,6 +12,7 @@ Coletânea de links úteis no dia a dia para design e programação
 - [frontendbr/vagas](https://github.com/frontendbr/vagas): Vagas apenas de front-end;
 - [phpdevbr](https://github.com/phpdevbr): Vagas para PHP Developers;
 - [backend-br](https://github.com/backend-br/vagas): Vagas somente Backend;
+- [CangaceirosDevels](https://github.com/CangaceirosDevels/vagas_de_emprego/issues): Vagas para developers;
 
 ### Apresentação de Slides - templates
 - [Free Google Slides](https://freegoogleslidestemplates.com/): templates de apresentações para download;
