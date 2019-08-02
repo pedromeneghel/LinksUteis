@@ -26,6 +26,7 @@ Coletânea de links úteis no dia a dia para design e programação
 - [Luiz Tools](https://www.luiztools.com.br/): Conteúdo sobre métodos ageis, Node js, mobile, etc.
 - [William Oliveira](https://woliveiras.com.br/): Node js e muito mais.
 - [By People](https://www.bypeople.com/): Ui kits, temas para wordpress, snippets e muito mais.
+- [Symu Freebies](https://symu.co/freebies/): Free psd files;
 
 ### Cursos
 - [Linux Pro](https://www.linuxpro.com.br/2017/08/curso-de-docker-gratis/): curso de docker;
