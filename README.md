@@ -28,5 +28,8 @@ Coletânea de links úteis no dia a dia para design e programação
 - [By People](https://www.bypeople.com/): Ui kits, temas para wordpress, snippets e muito mais.
 - [Symu Freebies](https://symu.co/freebies/): Free psd files;
 
+### PHP
+- [PHP Today](https://www.phptoday.org/): notícias, dicas e tutoriais.
+
 ### Cursos
 - [Linux Pro](https://www.linuxpro.com.br/2017/08/curso-de-docker-gratis/): curso de docker;
