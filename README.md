@@ -27,6 +27,12 @@ Coletânea de links úteis no dia a dia para design e programação
 - [William Oliveira](https://woliveiras.com.br/): Node js e muito mais.
 - [By People](https://www.bypeople.com/): Ui kits, temas para wordpress, snippets e muito mais.
 - [Symu Freebies](https://symu.co/freebies/): Free psd files;
+-[Ls.graphics](https://www.ls.graphics/free): Free mockups and design tools;
+-[Ionicons](https://ionicons.com/): Pacote de icones;
+-[BeFonts](https://befonts.com): Fonts
+-[The Hungry Jpeg](https://thehungryjpeg.com/freebies): Fontes
+-[Font Pair](https://fontpair.co/):  sugestão de combinação de fontes
+-[Frrames](https://frrames.com): deiverso tipos de mockups
 
 ### PHP
 - [PHP Today](https://www.phptoday.org/): notícias, dicas e tutoriais.
