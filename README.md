@@ -33,6 +33,7 @@ Coletânea de links úteis no dia a dia para design e programação
 -[The Hungry Jpeg](https://thehungryjpeg.com/freebies): Fontes
 -[Font Pair](https://fontpair.co/):  sugestão de combinação de fontes
 -[Frrames](https://frrames.com): deiverso tipos de mockups
+-[Colorlib Free Templates](https://colorlib.com/wp/templates/): templates free para wordpress
 
 ### PHP
 - [PHP Today](https://www.phptoday.org/): notícias, dicas e tutoriais.
