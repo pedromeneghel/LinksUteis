@@ -34,6 +34,7 @@ Coletânea de links úteis no dia a dia para design e programação
 -[Font Pair](https://fontpair.co/):  sugestão de combinação de fontes
 -[Frrames](https://frrames.com): deiverso tipos de mockups
 -[Colorlib Free Templates](https://colorlib.com/wp/templates/): templates free para wordpress
+-[Canais brasileiros para pessoas desenvolvedoras](https://github.com/carolcodes/videos-pt.br-tecnologia): Repositório responsável em listar Canais no Youtube ou Streaming sobre Tecnologia, Desenvolvimento e Programação em Português.
 
 ### PHP
 - [PHP Today](https://www.phptoday.org/): notícias, dicas e tutoriais.
