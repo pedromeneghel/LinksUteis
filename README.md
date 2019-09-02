@@ -37,6 +37,9 @@ Coletânea de links úteis no dia a dia para design e programação
 -[Canais brasileiros para pessoas desenvolvedoras](https://github.com/carolcodes/videos-pt.br-tecnologia): Repositório responsável em listar Canais no Youtube ou Streaming sobre Tecnologia, Desenvolvimento e Programação em Português.
 -[Getwaves](https://getwaves.io/): Gerador de imagens curvas em SVG;
 -[Isoflat](https://isoflat.com/): Material para design;
+-[Flight Icon](https://www.flighticon.co): Icones animados para uso em projetos;
+-[Use animations](https://useanimations.com): Icones animados para uso em projetos;
+-[Icons Cout](https://iconscout.com/icon-editor/): Editor de icones online;
 
 ### PHP
 - [PHP Today](https://www.phptoday.org/): notícias, dicas e tutoriais.
