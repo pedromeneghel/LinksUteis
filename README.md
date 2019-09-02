@@ -6,6 +6,7 @@ Coletânea de links úteis no dia a dia para design e programação
 - [Thear Thunders](https://www.thearthunters.com/ "Thear Thunders"): biblioteca diversificada de projetos para inspiração em design;
 - [365 psd](https://pt.365psd.com/ "365 psd"): conteúdo free para dar aquele gás no seu projeto de design;
 - [Theme Wagon](https://themewagon.com/theme_tag/free/): templates free para download;
+- [Search](https://search.muz.li/): Encontre trabalhos para se inspirar;
 
 ### Jobs
 - [Remote-friendly brazilian companies](https://github.com/plingbr/remote-jobs-brazil "Remote-friendly brazilian companies"): Coletânea de trabalhos na sua maioria remotos;
@@ -27,19 +28,19 @@ Coletânea de links úteis no dia a dia para design e programação
 - [William Oliveira](https://woliveiras.com.br/): Node js e muito mais.
 - [By People](https://www.bypeople.com/): Ui kits, temas para wordpress, snippets e muito mais.
 - [Symu Freebies](https://symu.co/freebies/): Free psd files;
--[Ls.graphics](https://www.ls.graphics/free): Free mockups and design tools;
--[Ionicons](https://ionicons.com/): Pacote de icones;
--[BeFonts](https://befonts.com): Fonts
--[The Hungry Jpeg](https://thehungryjpeg.com/freebies): Fontes
--[Font Pair](https://fontpair.co/):  sugestão de combinação de fontes
--[Frrames](https://frrames.com): deiverso tipos de mockups
--[Colorlib Free Templates](https://colorlib.com/wp/templates/): templates free para wordpress
--[Canais brasileiros para pessoas desenvolvedoras](https://github.com/carolcodes/videos-pt.br-tecnologia): Repositório responsável em listar Canais no Youtube ou Streaming sobre Tecnologia, Desenvolvimento e Programação em Português.
--[Getwaves](https://getwaves.io/): Gerador de imagens curvas em SVG;
--[Isoflat](https://isoflat.com/): Material para design;
--[Flight Icon](https://www.flighticon.co): Icones animados para uso em projetos;
--[Use animations](https://useanimations.com): Icones animados para uso em projetos;
--[Icons Cout](https://iconscout.com/icon-editor/): Editor de icones online;
+- [Ls.graphics](https://www.ls.graphics/free): Free mockups and design tools;
+- [Ionicons](https://ionicons.com/): Pacote de icones;
+- [BeFonts](https://befonts.com): Fonts
+- [The Hungry Jpeg](https://thehungryjpeg.com/freebies): Fontes
+- [Font Pair](https://fontpair.co/):  sugestão de combinação de fontes
+- [Frrames](https://frrames.com): deiverso tipos de mockups
+- [Colorlib Free Templates](https://colorlib.com/wp/templates/): templates free para wordpress
+- [Canais brasileiros para pessoas desenvolvedoras](https://github.com/carolcodes/videos-pt.br-tecnologia): Repositório responsável em listar Canais no Youtube ou Streaming sobre Tecnologia, Desenvolvimento e Programação em Português.
+- [Getwaves](https://getwaves.io/): Gerador de imagens curvas em SVG;
+- [Isoflat](https://isoflat.com/): Material para design;
+- [Flight Icon](https://www.flighticon.co): Icones animados para uso em projetos;
+- [Use animations](https://useanimations.com): Icones animados para uso em projetos;
+- [Icons Cout](https://iconscout.com/icon-editor/): Editor de icones online;
 
 ### PHP
 - [PHP Today](https://www.phptoday.org/): notícias, dicas e tutoriais.
