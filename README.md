@@ -7,6 +7,7 @@ Coletânea de links úteis no dia a dia para design e programação
 - [365 psd](https://pt.365psd.com/ "365 psd"): conteúdo free para dar aquele gás no seu projeto de design;
 - [Theme Wagon](https://themewagon.com/theme_tag/free/): templates free para download;
 - [Search](https://search.muz.li/): Encontre trabalhos para se inspirar;
+- [Undesing](https://undesign.learn.uno/):  Encontre resources para se inspirar;
 
 ### Jobs
 - [Remote-friendly brazilian companies](https://github.com/plingbr/remote-jobs-brazil "Remote-friendly brazilian companies"): Coletânea de trabalhos na sua maioria remotos;
