@@ -50,3 +50,6 @@ Coletânea de links úteis no dia a dia para design e programação
 
 ### Cursos
 - [Linux Pro](https://www.linuxpro.com.br/2017/08/curso-de-docker-gratis/): curso de docker;
+
+### Mobile
+- [Apps Club](http://www.appsclub.com/): Montetização de aplicativos
