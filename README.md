@@ -1,6 +1,9 @@
 # LinksUteis
 Coletânea de links úteis no dia a dia para design e programação
 
+### Banco de Imagens
+- [Pixabay](https://pixabay.com): banco de imagens gratuitas;
+
 ### Inspiração e material para design
 - [Theme Hunt](https://themehunt.com/items?start=21 "Theme Hunt"): templates free para utilização/inspiração;
 - [Thear Thunders](https://www.thearthunters.com/ "Thear Thunders"): biblioteca diversificada de projetos para inspiração em design;
