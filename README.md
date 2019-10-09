@@ -47,7 +47,8 @@ Coletânea de links úteis no dia a dia para design e programação
 - [Use animations](https://useanimations.com): Icones animados para uso em projetos;
 - [Icons Cout](https://iconscout.com/icon-editor/): Editor de icones online;
 - [Mokups Frames](https://www.mokupframes.com/): Mockups/framesp para utilizar em projetos;
-- [Semver](https://semver.org): Boas práticas para versionamentos de aplicações
+- [Semver](https://semver.org): Boas práticas para versionamentos de aplicações;
+- [Json Api](https://jsonapi.org): Boa práticas para retorno de objetos Json em API's;
 
 ### PHP
 - [PHP Today](https://www.phptoday.org/): notícias, dicas e tutoriais.
