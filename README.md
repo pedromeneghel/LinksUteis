@@ -3,6 +3,7 @@ Coletânea de links úteis no dia a dia para design e programação
 
 ### Banco de Imagens
 - [Pixabay](https://pixabay.com): banco de imagens gratuitas;
+- [Pinpng](https://www.pinpng.com/): muitos recortes em formato png
 
 ### Inspiração e material para design
 - [Theme Hunt](https://themehunt.com/items?start=21 "Theme Hunt"): templates free para utilização/inspiração;
@@ -11,7 +12,6 @@ Coletânea de links úteis no dia a dia para design e programação
 - [Theme Wagon](https://themewagon.com/theme_tag/free/): templates free para download;
 - [Search](https://search.muz.li/): Encontre trabalhos para se inspirar;
 - [Undesing](https://undesign.learn.uno/):  Encontre resources para se inspirar;
-- [Pinpng](https://www.pinpng.com/): muitos recortes em formato png
 
 ### Jobs
 - [Remote-friendly brazilian companies](https://github.com/plingbr/remote-jobs-brazil "Remote-friendly brazilian companies"): Coletânea de trabalhos na sua maioria remotos;
