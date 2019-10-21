@@ -14,6 +14,7 @@ Coletânea de links úteis no dia a dia para design e programação
 - [Undesing](https://undesign.learn.uno/):  Encontre resources para se inspirar;
 - [Coolors](https://coolors.co/): Serviço que ajuda na montagem de paleta de cores;
 - [Colour Lovers](https://www.colourlovers.com): Busca de paleta de cores por palavra chave;
+- [Pigment](https://pigment.shapefactory.co/): Dicas de paleta de cores;
 
 ### Jobs
 - [Remote-friendly brazilian companies](https://github.com/plingbr/remote-jobs-brazil "Remote-friendly brazilian companies"): Coletânea de trabalhos na sua maioria remotos;
