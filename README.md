@@ -17,6 +17,7 @@ Coletânea de links úteis no dia a dia para design e programação
 - [Colour Lovers](https://www.colourlovers.com): Busca de paleta de cores por palavra chave;
 - [Pigment](https://pigment.shapefactory.co/): Dicas de paleta de cores;
 - [Design System Playground](https://design-system-playground.netlify.com/): Gera um arquivo js para sua IU
+- [ByPeople](https://www.bypeople.com/): UI em geral;
 
 ### Jobs
 - [Remote-friendly brazilian companies](https://github.com/plingbr/remote-jobs-brazil "Remote-friendly brazilian companies"): Coletânea de trabalhos na sua maioria remotos;
