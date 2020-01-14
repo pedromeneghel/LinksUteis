@@ -69,3 +69,6 @@ Coletânea de links úteis no dia a dia para design e programação
 
 ### React
 - [Medium React Brasil](https://medium.com/reactbrasil): Tudo sobre o mundo React;
+
+### Docker
+- [Docker para Desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores): Livro "Docker para Desenvolvedores";
