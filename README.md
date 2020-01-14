@@ -56,7 +56,8 @@ Coletânea de links úteis no dia a dia para design e programação
 - [Mokups Frames](https://www.mokupframes.com/): Mockups/framesp para utilizar em projetos;
 - [Semver](https://semver.org): Boas práticas para versionamentos de aplicações;
 - [Json Api](https://jsonapi.org): Boa práticas para retorno de objetos Json em API's;
-- [Avatars Adorable](http://avatars.adorable.io/): API para criação de avatar;
+- [Avatars Adorable](http://avatars.adorable.io/): API para criação de avatar;.
+- [Flash Grid](https://github.com/CodyHouse/flashgrid/blob/master/dist/flashgrid.scss): Framework CSS;
 
 ### PHP
 - [PHP Today](https://www.phptoday.org/): notícias, dicas e tutoriais.
@@ -69,6 +70,9 @@ Coletânea de links úteis no dia a dia para design e programação
 
 ### React
 - [Medium React Brasil](https://medium.com/reactbrasil): Tudo sobre o mundo React;
+
+### Fullstack
+- [Turbo 360](https://www.turbo360.co/tutorials):Tutoriais diversos sobre Node, ReactJS e React Native;
 
 ### Docker
 - [Docker para Desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores): Livro "Docker para Desenvolvedores";
