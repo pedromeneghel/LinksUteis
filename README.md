@@ -25,6 +25,7 @@ Coletânea de links úteis no dia a dia para design e programação
 - [phpdevbr](https://github.com/phpdevbr): Vagas para PHP Developers;
 - [backend-br](https://github.com/backend-br/vagas): Vagas somente Backend;
 - [CangaceirosDevels](https://github.com/CangaceirosDevels/vagas_de_emprego/issues): Vagas para developers;
+- [Vagas BR](https://vagasbr.netlify.com/#/): Agregador de vagas de emprego;
 
 ### Apresentação de Slides - templates
 - [Free Google Slides](https://freegoogleslidestemplates.com/): templates de apresentações para download;
@@ -65,3 +66,6 @@ Coletânea de links úteis no dia a dia para design e programação
 
 ### Mobile
 - [Apps Club](http://www.appsclub.com/): Montetização de aplicativos
+
+### React
+- [Medium React Brasil](https://medium.com/reactbrasil): Tudo sobre o mundo React;
