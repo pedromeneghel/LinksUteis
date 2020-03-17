@@ -5,6 +5,8 @@ Coletânea de links úteis no dia a dia para design e programação
 - [Pixabay](https://pixabay.com): banco de imagens gratuitas;
 - [Pinpng](https://www.pinpng.com/): muitos recortes em formato png
 - [Unsplash](https://unsplash.com/): banco de imagens free;
+- [Glaze](https://www.glazestock.com): Ilustrações/vetores
+- [Woobro](https://woobro.design/browse): Banco de Ilustrações;
 
 ### Inspiração e material para design
 - [Theme Hunt](https://themehunt.com/items?start=21 "Theme Hunt"): templates free para utilização/inspiração;
